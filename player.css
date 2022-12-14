@@ -1,0 +1,45 @@
+
+body{
+  display: flex;
+  justify-content: center;
+  background: #ff564c;
+  font-family: 'Open Sans', sans-serif;
+}
+
+
+#main {
+  background: #111;
+  margin: 8px;
+  padding: 0;
+  color: white;
+  width: 340px;
+  height: 95vh;
+  transition: all 0.3s ease-in;
+  border-radius: 25px;
+  box-shadow: 0px 4px 15px rgba(0, 0, 0, 4);
+}
+
+#coverart{
+  border-radius: 25px;
+  background-color: black;
+  height: 60%;
+  display: flex;
+  justify-content: center;
+}
+
+#coverart img{
+  /* padding: %; */
+  border-radius: 25px;
+  width: 320px;
+}
+
+#control{
+  display: flex;
+  justify-content: center;
+
+}
+#player{
+  display: flex;
+  justify-content: center;
+  
+}
