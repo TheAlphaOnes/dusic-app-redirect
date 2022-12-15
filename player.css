@@ -71,7 +71,7 @@ input[type=checkbox] {
   width: 216px;
   height: 35px;
   position: absolute;
-  bottom: 80px;
+  bottom: 50px;
   left: 49.5%;
   transform: translate(-50%, 0);
   z-index: 10;
